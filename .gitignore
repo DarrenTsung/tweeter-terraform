@@ -7,3 +7,6 @@
 
 # .tfvars files
 *.tfvars
+
+# Used for local configuration (Darren)
+.dcname
